@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessio Paiva Bertolini</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** and **Vue.js**
 
 - 📫 How to reach me **alessio.bertolini@gmail.com**
 
